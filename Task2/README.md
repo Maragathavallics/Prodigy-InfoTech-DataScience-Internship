@@ -43,19 +43,19 @@ Heatmap showing correlations among math, reading, and writing scores.
 
 Calculated the average score for each student across all subjects.
 ## Key Findings
-Gender Differences:
+1. Gender Differences:
 Female students scored higher in reading and writing, while math scores were more balanced.
 
-Test Preparation:
+2. Test Preparation:
 Students who completed a test preparation course achieved significantly higher average scores (72.67) compared to those who did not (65.03).
 
-Lunch Type:
+3. Lunch Type:
 Students with standard lunch outperformed those with free/reduced lunch.
 
-Parental Education:
+4. Parental Education:
 Higher parental education levels correlated with better performance, especially in reading and writing.
 
-Correlation:
+5. Correlation:
 Strong positive correlation between scores across all subjects.
 ## Conclusion
 This EDA revealed clear trends linking socio-economic factors and preparation efforts to student academic performance. The analysis highlights the importance of parental education, nutrition, and targeted preparation in improving learning outcomes.
