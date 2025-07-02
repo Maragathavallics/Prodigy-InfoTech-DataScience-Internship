@@ -1,6 +1,6 @@
 # Prodigy InfoTech Data Science Internship
 ## Task1: Population Distribution Visualization
-![Task 01 Screenshot](task-01.png)
+![Screenshot](Task1.png)
 ## Introduction
 
 In this project, I performed Exploratory Data Analysis (EDA) on the World Bank Total Population dataset as part of the Data Science Internship at **Prodigy Infotech**. The main objective was to clean and analyze the data and create visualizations such as a histogram and a bar chart to show the distribution of population across countries for the year 2023.
